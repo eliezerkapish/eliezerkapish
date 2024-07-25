@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eliezerkapish
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Phyton and R
-- 💞️ I’m looking to collaborate on Phyton
+- 🌱 I’m currently learning Data Engineering
+- 💞️ I’m looking forward to collaborate with your project
 - 📫 How to reach me 
 
 <!---
