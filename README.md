@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @eliezerkapish
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m Eliezer
+- 👀 I’m a Machine Learning & Analytics Engineer
 - 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking forward to collaborate with your project
+- 💞️ I’m looking forward to collaborating with your project
 - 📫 How to reach me 
 
 <!---
