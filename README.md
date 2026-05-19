@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Eliezer
 - 🤖 I’m a Machine Learning & Analytics Engineer
-- 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking forward to collaborating with your project
 
 
