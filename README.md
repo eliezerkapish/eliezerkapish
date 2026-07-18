@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eliezer
-- 🤖 I’m a Machine Learning & Analytics Engineer
-- 💞️ I’m looking forward to collaborating with your project
+- 🤖 Industrial AI Engineer | Applied Machine Learning | Process Optimization 
+  
 
 
 <!---
